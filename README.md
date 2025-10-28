@@ -9,3 +9,5 @@ TryHackMe !  Vulnversity
 2. It iterates a list of candidate file extensions (PHP variants).
 3. For each extension it renames the local file to that extension, uploads it with an HTTP POST (multipart/form-data), and checks the server response for the string "Extension not allowed".
 4. It prints whether each extension appears to be allowed or not.
+
+# You can Fork This Whatever you want Or modify the code 
