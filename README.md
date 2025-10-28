@@ -11,3 +11,6 @@ TryHackMe !  Vulnversity
 4. It prints whether each extension appears to be allowed or not.
 
 # You can Fork This Whatever you want Or modify the code 
+
+# Note 
+This script is intended for authorized security testing and learning environments (for example, TryHackMe labs). Do not use this against systems you do not have permission to test. Always follow the rules of engagement and local laws.
